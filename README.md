@@ -12,10 +12,10 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Lucas
+- Matricula: 905488
+- Proposta de projeto escolhida: Coleção de faixas 
+- Breve descrição sobre seu projeto: Site com faixas sobre certo estilo musical
 
 ## Print da Home-Page
 
