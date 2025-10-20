@@ -34,6 +34,21 @@ h2:hover {
   transition: transform 0.3s;
 }
 
+
 .card:hover {
   transform: scale(1.05);
+}
+.collapse {
+  transition: all 0.5s ease-in-out;
+  opacity: 0;
+  transform: scaleY(0);
+  transform-origin: top;
+  height: 0;
+  overflow: hidden;
+}
+
+.collapse.show {
+  opacity: 1;
+  transform: scaleY(1);
+  height: auto;
 }
